@@ -1734,15 +1734,15 @@ a {
 .cid-tF6KEQLlC3 H6 {
   text-align: center;
 }
-.cid-tFGP6W29ms {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+.cid-tFLrTTXl2s {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
-.cid-tFGP6W29ms .mbr-fallback-image.disabled {
+.cid-tFLrTTXl2s .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tFGP6W29ms .mbr-fallback-image {
+.cid-tFLrTTXl2s .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1751,14 +1751,14 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tFGP6W29ms .bg-instagram {
+.cid-tFLrTTXl2s .bg-instagram {
   background: #f00075;
   color: #ffffff;
 }
-.cid-tFGP6W29ms .bg-instagram:hover {
+.cid-tFLrTTXl2s .bg-instagram:hover {
   background: #bd005c;
 }
-.cid-tFGP6W29ms .iconfont-wrapper {
+.cid-tFLrTTXl2s .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
   border-radius: 50%;
@@ -1768,8 +1768,8 @@ a {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
-.cid-tFGP6W29ms [class^="socicon-"]:before,
-.cid-tFGP6W29ms [class*=" socicon-"]:before {
+.cid-tFLrTTXl2s [class^="socicon-"]:before,
+.cid-tFLrTTXl2s [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
 }
@@ -2218,7 +2218,7 @@ a {
 }
 .cid-tFdfKYbG4v {
   padding-top: 3rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-tFdfKYbG4v .mbr-fallback-image.disabled {
@@ -2277,6 +2277,13 @@ a {
 }
 .cid-tFGPLCBCqY .bg-instagram:hover {
   background: #bd005c;
+}
+.cid-tFGPLCBCqY .bg-linkedin {
+  background: #0077b5;
+  color: #ffffff;
+}
+.cid-tFGPLCBCqY .bg-linkedin:hover {
+  background: #005582;
 }
 .cid-tFGPLCBCqY .iconfont-wrapper {
   display: inline-block;
@@ -3378,6 +3385,45 @@ a {
 }
 .cid-tFcYTqZ7dH .mbr-text {
   text-align: left;
+}
+.cid-tFLsdSFZs8 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-tFLsdSFZs8 .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tFLsdSFZs8 .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tFLsdSFZs8 .bg-linkedin {
+  background: #0077b5;
+  color: #ffffff;
+}
+.cid-tFLsdSFZs8 .bg-linkedin:hover {
+  background: #005582;
+}
+.cid-tFLsdSFZs8 .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-tFLsdSFZs8 [class^="socicon-"]:before,
+.cid-tFLsdSFZs8 [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
 }
 .cid-tFcY84ST9P {
   padding-top: 2rem;
